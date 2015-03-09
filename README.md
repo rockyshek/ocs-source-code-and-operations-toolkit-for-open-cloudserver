@@ -13,7 +13,7 @@ All new work should be in the development sub branches. Master is now reserved t
 
 
 ## OCS Deployment Operations Toolkit
-The Open CloudServer (OCS) Operations Toolkit is a collection of scripts and utilities for updating, diagnosing, and testing OCS servers and chassis managers.  This Toolkit provides a one stop shop for utilities, tests and diagnostics that provide: 
+The Open CloudServer (OCS) Deployment Toolkit is a collection of scripts and utilities for updating, diagnosing, and testing OCS servers and chassis managers.  This Toolkit provides a one stop shop for utilities, tests and diagnostics that provide: 
 
 - Diagnostics 
 
