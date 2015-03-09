@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<ChassisAssetInfoResponse xmlns:i="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.datacontract.org/2004/07/Microsoft.GFS.WCS.Contracts">
+<completionCode>Success</completionCode>
+<apiVersion>1</apiVersion>
+<statusDescription/>
+<chassisAreaPartNumber>X903370-001</chassisAreaPartNumber>
+<chassisAreaSerialNumber>0000000000000000</chassisAreaSerialNumber>
+<boardAreaManufacturerName>Microsoft</boardAreaManufacturerName>
+<boardAreaManufacturerDate>9/26/2014 10:36:00 AM</boardAreaManufacturerDate>
+<boardAreaProductName>E1020</boardAreaProductName>
+<boardAreaSerialNumber>SLJ42600018</boardAreaSerialNumber>
+<boardAreaPartNumber>X901036-001</boardAreaPartNumber>
+<productAreaManufactureName>Microsoft</productAreaManufactureName>
+<productAreaProductName>E1020</productAreaProductName>
+<productAreaPartModelNumber>X901035-001</productAreaPartModelNumber>
+<productAreaProductVersion>A</productAreaProductVersion>
+<productAreaSerialNumber>SLJ42600018</productAreaSerialNumber>
+<productAreaAssetTag>5901336</productAreaAssetTag>
+<manufacturer/>
+<serviceVersion>2.0.1.200</serviceVersion>
+<multiRecordFields xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/>
+</ChassisAssetInfoResponse>

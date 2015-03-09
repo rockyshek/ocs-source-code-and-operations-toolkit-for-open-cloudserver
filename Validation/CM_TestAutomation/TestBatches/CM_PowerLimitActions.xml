@@ -1,0 +1,39 @@
+﻿<TestBatch xmlns="http://schemas.datacontract.org/2004/07/Microsoft.GFS.WCS.Test.Framework" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <ApiSla>PT1M40S</ApiSla>
+  <ShuffleSequences>true</ShuffleSequences>
+  <Name>Blade_Stress</Name>
+  <MaximumParallelThreads>10</MaximumParallelThreads>
+  <TestSequences>
+    <TestSequence>
+      <LocalParameters i:nil="true" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/>
+      <RunAsRoles>*</RunAsRoles>
+      <Tests>
+        <Test>
+          <Name>SetBladePowerLimit</Name>
+          <Iterations>1</Iterations>
+          <DelayBetweenIterationsInMS>0</DelayBetweenIterationsInMS>
+        </Test>
+        <Test>
+          <Name>SetBladePowerLimitOn</Name>
+          <Iterations>1</Iterations>
+          <DelayBetweenIterationsInMS>0</DelayBetweenIterationsInMS>
+        </Test>
+        <Test>
+          <Name>GetBladePowerLimit</Name>
+          <Iterations>1</Iterations>
+          <DelayBetweenIterationsInMS>0</DelayBetweenIterationsInMS>
+        </Test>
+        <Test>
+          <Name>SetBladePowerLimitoff</Name>
+          <Iterations>1</Iterations>
+          <DelayBetweenIterationsInMS>0</DelayBetweenIterationsInMS>
+        </Test>
+      </Tests>
+      <SequenceName>Sequence_Set_GetBladePowerLimit</SequenceName>
+      <SequenceIterations>1</SequenceIterations>
+      <RotateParametersValueBetweenIterations>true</RotateParametersValueBetweenIterations>
+    </TestSequence>
+  </TestSequences>
+  <Duration>PT2H</Duration>
+  <SaveResultFrequency>PT10M</SaveResultFrequency>
+</TestBatch>

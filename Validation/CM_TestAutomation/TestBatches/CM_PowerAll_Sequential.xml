@@ -1,0 +1,36 @@
+﻿<TestBatch xmlns="http://schemas.datacontract.org/2004/07/Microsoft.GFS.WCS.Test.Framework" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+
+  <ApiSla>PT1M40S</ApiSla>
+  <Name>PowerAll Sequential Apis</Name>
+  <MaximumParallelThreads>1</MaximumParallelThreads>
+
+  <TestSequences>
+    <TestSequence>
+
+      <Tests>
+        <Test>
+          <Name>SetBladeOff</Name>
+          <DelayBeforeStartInMS>1000</DelayBeforeStartInMS>
+        </Test>
+        <Test>
+          <Name>SetBladeOn</Name>
+          <DelayBeforeStartInMS>01000</DelayBeforeStartInMS>
+        </Test>
+        <Test>
+          <Name>SetAllBladesOff</Name>
+          <DelayBeforeStartInMS>50000</DelayBeforeStartInMS>
+        </Test>
+        <Test>
+          <Name>SetAllBladesOn</Name>
+          <DelayBeforeStartInMS>01000</DelayBeforeStartInMS>
+        </Test>
+      </Tests>
+      <SequenceName>Sequence_BladePowerActions</SequenceName>
+      <SequenceIterations>1</SequenceIterations>
+    </TestSequence>
+  </TestSequences>
+
+  <Duration>PT15M</Duration>
+  <SaveResultFrequency>PT1M</SaveResultFrequency>
+
+</TestBatch>

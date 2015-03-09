@@ -1,0 +1,54 @@
+﻿<TestBatch xmlns="http://schemas.datacontract.org/2004/07/Microsoft.GFS.WCS.Test.Framework" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+  <ApiSla>PT1M40S</ApiSla>
+  <ShuffleSequences>true</ShuffleSequences>
+  <Name>StressSerial</Name>
+  <MaximumParallelThreads>1</MaximumParallelThreads>
+  <TestSequences>
+    <TestSequence>
+      <LocalParameters i:nil="true" xmlns:a="http://schemas.microsoft.com/2003/10/Serialization/Arrays"/>
+      <RunAsRoles>*</RunAsRoles>
+      <Tests>
+        <Test>
+          <Name>StartBladeSerialSession</Name>
+          <Iterations>1</Iterations>
+          <DelayBetweenIterationsInMS>0</DelayBetweenIterationsInMS>
+        </Test>
+        <Test>
+          <Name>StopBladeSerialSession</Name>
+          <Iterations>1</Iterations>
+          <DelayBetweenIterationsInMS>0</DelayBetweenIterationsInMS>
+        </Test>
+        <Test>
+          <Name>GetBladeState</Name>
+          <Iterations>1</Iterations>
+          <DelayBetweenIterationsInMS>0</DelayBetweenIterationsInMS>
+        </Test>
+        <Test>
+          <Name>StartBladeSerialSession</Name>
+          <Iterations>1</Iterations>
+          <DelayBetweenIterationsInMS>0</DelayBetweenIterationsInMS>
+        </Test>
+        <Test>
+          <Name>GetBladeState</Name>
+          <Iterations>1</Iterations>
+          <DelayBetweenIterationsInMS>0</DelayBetweenIterationsInMS>
+        </Test>
+        <Test>
+          <Name>StartBladeSerialSession</Name>
+          <Iterations>1</Iterations>
+          <DelayBetweenIterationsInMS>0</DelayBetweenIterationsInMS>
+        </Test>
+        <Test>
+          <Name>StopBladeSerialSession</Name>
+          <Iterations>1</Iterations>
+          <DelayBetweenIterationsInMS>0</DelayBetweenIterationsInMS>
+        </Test>
+      </Tests>
+      <SequenceName>Sequence_SerialSession</SequenceName>
+      <SequenceIterations>1</SequenceIterations>
+      <RotateParametersValueBetweenIterations>true</RotateParametersValueBetweenIterations>
+    </TestSequence>
+  </TestSequences>
+<Duration>PT3M</Duration>
+<SaveResultFrequency>PT1M</SaveResultFrequency>
+</TestBatch>

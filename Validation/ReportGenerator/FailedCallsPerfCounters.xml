@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Counters>
+  <Counter>
+    <PerfCounterName>GetACSocketPowerState@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetACSocketPowerState</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetACSocketPowerStateOff@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetACSocketPowerStateOff</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetAllBladesState@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetAllBladesState</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetBladeState@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetBladeState</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetAllPowerState@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetAllPowerState</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetPowerState@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetPowerState</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetBladeActivePowerCycle@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetBladeActivePowerCycle</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetAllBladesOff@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetAllBladesOff</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetAllBladesOn@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetAllBladesOn</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetAllBladesD06@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetAllBladesDefaultPowerState</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetBladeDefau38@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetBladeDefaultPowerState</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetAllBladesD12@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetAllBladesDefaultPowerStateOff</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetAllBladesD53@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetAllBladesDefaultPowerStateOn</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetBladeDefau16@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetBladeDefaultPowerStateOff</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetBladeDefau01@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetBladeDefaultPowerStateOn</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetAllBladesA23@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetAllBladesAttentionLEDOn</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetAllBladesA78@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetAllBladesAttentionLEDOff</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetBladeAttentionLEDOff@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetBladeAttentionLEDOff</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetBladeAttentionLEDOn@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetBladeAttentionLEDOn</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetChassisAttentionLEDOn@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetChassisAttentionLEDOn</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetChassisAtt92@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetChassisAttentionLEDOff</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetAllBladesInfo@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetAllBladesInfo</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetBladeInfo@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetBladeInfo</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetChassisInfo@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetChassisInfo</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>ChangeChassis00@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>ChangeChassisControllerUserProperties</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>RemoveChassis17@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>RemoveChassisControllerUser</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>AddChassisControllerUser@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>AddChassisControllerUser</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetChassisNet98@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetChassisNetworkProperties</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetAllBladesP95@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetAllBladesPowerLimitOff</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetAllBladesPowerLimit@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetAllBladesPowerLimit</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetAllBladesPowerLimitOn@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetAllBladesPowerLimitOn</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetBladePowerLimitOff@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetBladePowerLimitOff</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetBladePowerLimitOn@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetBladePowerLimitOn</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>SetBladePowerLimit@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>SetBladePowerLimit</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetAllBladesPowerLimit@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetAllBladesPowerLimit</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetBladePowerLimit@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetBladePowerLimit</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetAllBladesPowerReading@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetAllBladesPowerReading</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>GetBladePowerReading@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>GetBladePowerReading</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>ClearBladeLog@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>ClearBladeLog</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>ReadBladeLog@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>ReadBladeLog</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>ReadBladeLogW96@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>ReadBladeLogWithTimestamp</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>ClearChassisLog@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>ClearChassisLog</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>ReadChassisLog@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>ReadChassisLog</FriendlyName>
+  </Counter>
+  <Counter>
+    <PerfCounterName>ReadChassisLo25@HTTPS:||LOCALHOST:8000|)\Calls Failed</PerfCounterName>
+    <FriendlyName>ReadChassisLogWithTimestamp</FriendlyName>
+  </Counter>
+</Counters>

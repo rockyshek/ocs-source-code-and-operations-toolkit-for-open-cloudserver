@@ -1,0 +1,13 @@
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\Contracts\bin\Debug\Microsoft.GFS.WCS.Contracts.dll
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\Contracts\bin\Debug\Microsoft.GFS.WCS.Contracts.pdb
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\Contracts\obj\Debug\Microsoft.GFS.WCS.Contracts.csprojResolveAssemblyReference.cache
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\Contracts\obj\Debug\Microsoft.GFS.WCS.Contracts.dll
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\Contracts\obj\Debug\Microsoft.GFS.WCS.Contracts.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\Contracts\bin\Debug\Microsoft.GFS.WCS.Contracts.dll
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\Contracts\bin\Debug\Microsoft.GFS.WCS.Contracts.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\Contracts\obj\Debug\Microsoft.GFS.WCS.Contracts.dll
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\Contracts\obj\Debug\Microsoft.GFS.WCS.Contracts.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\Contracts\obj\Debug\Microsoft.GFS.WCS.Contracts.dll
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\Contracts\obj\Debug\Microsoft.GFS.WCS.Contracts.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\Contracts\bin\Debug\Microsoft.GFS.WCS.Contracts.dll
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\Contracts\bin\Debug\Microsoft.GFS.WCS.Contracts.pdb

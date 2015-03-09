@@ -1,0 +1,26 @@
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\obj\Debug\ChassisValidationRestTests.csprojResolveAssemblyReference.cache
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestResources\FRU\Tools\PDB_FRU 0815 V0.05.zip
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\Documentation\RESTAutomation_Scenarios.txt
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestData\BladeFruSample.xml
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestData\BladeHealthSample.xml
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestData\ChassisManagerFruSample.xml
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestData\PdbFruSample.xml
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\Documentation\Chassis Validation Documentation Summary.docx
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\Documentation\Chassis Validation Utility Setup Documentation.docx
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestResources\Blade Mezz\Image\PikesPeak_I2C_Test_NoBypassUntilForced.sof
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestResources\FRU\Tools\CM_FRU 0815 V0.09.zip
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestResources\FRU\Tools\MB_FRU_0812_V0.07.zip
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestResources\PSU FW\PL1600H_Pri_V011900_Ver0006AA_A04041_SRP.zip
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestResources\PSU FW\PL1600H_Sec_V012000_Ver0006AA_A04041_SRP.zip
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestResources\PSU FW\PS1600H_Pri_V011900_Ver0005AA_A04041_SRP.zip
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\TestResources\PSU FW\PS1600H_Sec_V011900_Ver0005AA_A04041_SRP.zip
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\App.config
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\ChassisValidationRestTests.dll.config
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\ChassisValidationRestTests.dll
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\ChassisValidationRestTests.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\ChassisValidation.dll
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\Microsoft.GFS.WCS.Contracts.dll
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\ChassisValidation.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\bin\Debug\Microsoft.GFS.WCS.Contracts.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\obj\Debug\ChassisValidationRestTests.dll
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\Validation\ChassisValidation\ChassisValidationRestTests\obj\Debug\ChassisValidationRestTests.pdb
