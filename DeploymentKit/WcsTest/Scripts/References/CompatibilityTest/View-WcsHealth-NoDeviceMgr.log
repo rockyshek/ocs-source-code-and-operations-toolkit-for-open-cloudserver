@@ -1,0 +1,28 @@
+
+ SYSTEM HEALTH DEGRADED - FOUND ERRORS... 
+ 
+----------------------------------------------------------------------
+ Location        # Errors   Last Error
+----------------------------------------------------------------------
+ Processor 1            2   QPI 1 correctable error -
+ Processor             11   IERR -
+ DIMM B2                2   uncorrectable ECC -
+ Processor 0            2   QPI 0 correctable error -
+ DIMM F2                2   uncorrectable ECC -
+ DIMM B1                2   uncorrectable ECC -
+ Board/Adapter         12   PCIe (#2) -
+ NIC adapter            2   PCIe Error -
+ DIMM F1                2   uncorrectable ECC -
+ System                 8   BIOS FRB2 watchdog timeout -
+ DIMM D2                2   uncorrectable ECC -
+ DIMM C2                2   uncorrectable ECC -
+ DIMM A1                8   NVDIMM error -
+ BOARD                  5   PCIe Error -
+ DIMM E1                2   uncorrectable ECC -
+ HBA adapter            1   PCIe Error -
+ Disk                   2   predictive fail -
+ DIMM A2                2   uncorrectable ECC -
+ DIMM D1                2   uncorrectable ECC -
+ DIMM C1                2   uncorrectable ECC -
+ DIMM E2                2   uncorrectable ECC -
+ DIMM N/A               3   memory event -

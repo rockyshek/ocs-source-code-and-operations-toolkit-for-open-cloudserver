@@ -1,0 +1,7 @@
+
+ SYSTEM HEALTH DEGRADED - FOUND ERRORS... 
+ 
+----------------------------------------------------------------------
+ Location        # Errors   Last Error
+----------------------------------------------------------------------
+ DEVICE MANAGER         2   Device drivers are not installed. (0x1C) PCI Simple Communications Controller

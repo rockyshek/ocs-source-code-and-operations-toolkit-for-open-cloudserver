@@ -1,0 +1,76 @@
+
+ SYSTEM HEALTH DEGRADED - FOUND ERRORS... 
+ 
+----------------------------------------------------------------------
+ Location        # Errors   Last Error
+----------------------------------------------------------------------
+ NIC ADAPTER            2   PCIe Error (OEM) -
+ Processor              2   IERR -
+ DIMM B2                2   Uncorrectable ECC -
+ Processor 0            2   QPI 0 Correctable Error -
+ DIMM F2                2   Uncorrectable ECC -
+ DIMM B1                2   Uncorrectable ECC -
+ BOARD/ADAPTER          3   Correctable bus error -
+ DIMM F1                2   Uncorrectable ECC -
+ System                 2   POST error EvtData(3-1) 0xAA55A0 -
+ DIMM D2                2   Uncorrectable ECC -
+ DIMM C2                2   Uncorrectable ECC -
+ DIMM A1                2   Uncorrectable ECC -
+ DIMM E1                2   Uncorrectable ECC -
+ DIMM A2                2   Uncorrectable ECC -
+ DEVICE MANAGER         2   Device drivers are not installed. (0x1C) PCI Simple Communications Controller
+ Processor 1            2   QPI 1 Correctable Error -
+ DIMM D1                2   Uncorrectable ECC -
+ DIMM C1                2   Uncorrectable ECC -
+ DIMM E2                2   Uncorrectable ECC -
+
+----------------------------------------------------------------------
+ Device Manager Errors
+----------------------------------------------------------------------
+DEV MGR: Device drivers are not installed. (0x1C) PCI Simple Communications Controller
+DEV MGR: Device drivers are not installed. (0x1C) PCI Simple Communications Controller
+
+----------------------------------------------------------------------
+ FRU Errors
+----------------------------------------------------------------------
+
+----------------------------------------------------------------------
+ Hardware Errors
+----------------------------------------------------------------------
+BMC SEL: 00A1   Processor IERR Sensor D5 EvtData(3-1) 0x00FFFF
+BMC SEL: 00A2   Processor 0 QPI 0 Uncorrectable Error Sensor 9D EvtData(3-1) 0xAB0001
+BMC SEL: 00A3   Processor 0 QPI 0 Correctable Error Sensor 9D EvtData(3-1) 0xAC0001
+BMC SEL: 00A4   Processor IERR Sensor D5 EvtData(3-1) 0x00FFFF
+BMC SEL: 00A5   Processor 1 QPI 1 Uncorrectable Error Sensor 9D EvtData(3-1) 0xAB0012
+BMC SEL: 00A6   Processor 1 QPI 1 Correctable Error Sensor 9D EvtData(3-1) 0xAC0012
+BMC SEL: 00A7   BIOS FRB2 watchdog timeout
+BMC SEL: 00A8   POST error EvtData(3-1) 0xAA55A0
+BMC SEL: 00A9   BOARD/ADAPTER PCIe Error Correctable bus error PCI Bus:0 Dev:1 Fun:1
+BMC SEL: 00AA   BOARD/ADAPTER PCIe Error (#2) First Error:0x71 Second Error:0x0E
+BMC SEL: 00AB   NIC ADAPTER PCIe Error (OEM) VID: 15B3 DID: 1100 Data1 0xFF Data2 0xFF
+BMC SEL: 00AC   BOARD/ADAPTER PCIe Error Correctable bus error PCI Bus:0 Dev:1 Fun:1
+BMC SEL: 00AD   NIC ADAPTER PCIe Error (OEM) VID: 15B3 DID: 1100 Data1 0x70 Data2 0x71
+BMC SEL: 00AE   DIMM A1 Correctable ECC
+BMC SEL: 00AF   DIMM A1 Uncorrectable ECC
+BMC SEL: 00B0   DIMM A2 Correctable ECC
+BMC SEL: 00B1   DIMM A2 Uncorrectable ECC
+BMC SEL: 00B2   DIMM B1 Correctable ECC
+BMC SEL: 00B3   DIMM B1 Uncorrectable ECC
+BMC SEL: 00B4   DIMM B2 Correctable ECC
+BMC SEL: 00B5   DIMM B2 Uncorrectable ECC
+BMC SEL: 00B6   DIMM C1 Correctable ECC
+BMC SEL: 00B7   DIMM C1 Uncorrectable ECC
+BMC SEL: 00B8   DIMM C2 Correctable ECC
+BMC SEL: 00B9   DIMM C2 Uncorrectable ECC
+BMC SEL: 00BA   DIMM D1 Correctable ECC
+BMC SEL: 00BB   DIMM D1 Uncorrectable ECC
+BMC SEL: 00BC   DIMM D2 Correctable ECC
+BMC SEL: 00BD   DIMM D2 Uncorrectable ECC
+BMC SEL: 00BE   DIMM E1 Correctable ECC
+BMC SEL: 00BF   DIMM E1 Uncorrectable ECC
+BMC SEL: 00C0   DIMM E2 Correctable ECC
+BMC SEL: 00C1   DIMM E2 Uncorrectable ECC
+BMC SEL: 00C2   DIMM F1 Correctable ECC
+BMC SEL: 00C3   DIMM F1 Uncorrectable ECC
+BMC SEL: 00C4   DIMM F2 Correctable ECC
+BMC SEL: 00C5   DIMM F2 Uncorrectable ECC

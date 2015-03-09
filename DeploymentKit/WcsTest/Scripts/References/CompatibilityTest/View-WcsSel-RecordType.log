@@ -1,0 +1,71 @@
+SEL cleared
+Temperature exceeded threshold                 GenID: 2000 EvMRev: 04 SensorType: 01 Sensor: CC EventDirType: 01 EventData(3-1): E1 B9 50 
+Temperature within threshold                   GenID: 2000 EvMRev: 04 SensorType: 01 Sensor: CC EventDirType: 81 EventData(3-1): A9 B9 50 
+Voltage exceeded threshold                     GenID: 2000 EvMRev: 04 SensorType: 02 Sensor: CC EventDirType: 01 EventData(3-1): E1 B9 50 
+Voltage within threshold                       GenID: 2000 EvMRev: 04 SensorType: 02 Sensor: CC EventDirType: 81 EventData(3-1): A9 B9 50 
+Current exceeded threshold                     GenID: 2000 EvMRev: 04 SensorType: 03 Sensor: CC EventDirType: 01 EventData(3-1): E1 B9 50 
+Current within threshold                       GenID: 2000 EvMRev: 04 SensorType: 03 Sensor: CC EventDirType: 81 EventData(3-1): A9 B9 50 
+Fan exceeded threshold                         GenID: 2000 EvMRev: 04 SensorType: 04 Sensor: CC EventDirType: 01 EventData(3-1): E1 B9 50 
+Fan within threshold                           GenID: 2000 EvMRev: 04 SensorType: 04 Sensor: CC EventDirType: 81 EventData(3-1): A9 B9 50 
+Processor IERR                                 GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 00 
+Processor Thermal Trip                         GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 01 
+Processor FRB1                                 GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 02 
+Processor FRB2                                 GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 03 
+Processor FRB3                                 GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 04 
+Processor configuration error                  GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 05 
+Processor SMBIOS error                         GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 06 
+Processor automatically throttled              GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 0A 
+Processor uncorrectable machine check          GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 0B 
+Processor correctable machine check            GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 0C 
+DIMM N/A correctable ECC                       GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: CC EventDirType: 6F EventData(3-1): FF FF 00 
+DIMM N/A uncorrectable ECC                     GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: CC EventDirType: 6F EventData(3-1): FF FF 01 
+DIMM N/A memory event                          GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: CC EventDirType: 6F EventData(3-1): FF FF 03 
+Disk fault                                     GenID: 0001 EvMRev: 04 SensorType: 0D Sensor: CC EventDirType: 6F EventData(3-1): FF FF 01 
+Disk predictive fail                           GenID: 0001 EvMRev: 04 SensorType: 0D Sensor: CC EventDirType: 6F EventData(3-1): FF FF 02 
+POST Error                                     GenID: 0001 EvMRev: 04 SensorType: 0F Sensor: 9E EventDirType: 6F EventData(3-1): AA 55 A0 
+Board/Adapter PCI PERR                         GenID: 0001 EvMRev: 04 SensorType: 13 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 04 
+Board/Adapter PCI SERR                         GenID: 0001 EvMRev: 04 SensorType: 13 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 05 
+Board/Adapter correctable bus error            GenID: 0001 EvMRev: 04 SensorType: 13 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 07 
+Board/Adapter uncorrectable bus error          GenID: 0001 EvMRev: 04 SensorType: 13 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 08 
+Board/Adapter critical interrupt               GenID: 0001 EvMRev: 04 SensorType: 13 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 09 
+Board/Adapter fatal bus error                  GenID: 0001 EvMRev: 04 SensorType: 13 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 0A 
+Board/Adapter critical interrupt               GenID: 0001 EvMRev: 04 SensorType: 13 Sensor: CC EventDirType: 6F EventData(3-1): FF FF 01 
+Board Chipset soft power failure               GenID: 0001 EvMRev: 04 SensorType: 19 Sensor: CC EventDirType: 6F EventData(3-1): 00 00 00 
+Board Chipset thermal trip                     GenID: 0001 EvMRev: 04 SensorType: 19 Sensor: CC EventDirType: 6F EventData(3-1): 00 00 01 
+BIOS FRB2 watchdog timeout                     GenID: 0001 EvMRev: 04 SensorType: 23 Sensor: CC EventDirType: 6F EventData(3-1): FF 01 C1 
+DIMM A1 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 01 00 A0 
+DIMM A1 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 01 00 A1 
+DIMM A2 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 02 00 A0 
+DIMM A2 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 02 00 A1 
+DIMM B1 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 03 00 A0 
+DIMM B1 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 03 00 A1 
+DIMM B2 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 04 00 A0 
+DIMM B2 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 04 00 A1 
+DIMM C1 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 05 00 A0 
+DIMM C1 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 05 00 A1 
+DIMM C2 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 06 00 A0 
+DIMM C2 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 06 00 A1 
+DIMM D1 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 07 00 A0 
+DIMM D1 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 07 00 A1 
+DIMM D2 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 08 00 A0 
+DIMM D2 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 08 00 A1 
+DIMM E1 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 09 00 A0 
+DIMM E1 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 09 00 A1 
+DIMM E2 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 0A 00 A0 
+DIMM E2 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 0A 00 A1 
+DIMM F1 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 0B 00 A0 
+DIMM F1 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 0B 00 A1 
+DIMM F2 correctable ECC                        GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 0C 00 A0 
+DIMM F2 uncorrectable ECC                      GenID: 0001 EvMRev: 04 SensorType: 0C Sensor: 87 EventDirType: 6F EventData(3-1): 0C 00 A1 
+Processor 0 QPI 0 uncorrectable error          GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: 9D EventDirType: 6F EventData(3-1): 01 00 AB 
+Processor 0 QPI 0 correctable error            GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: 9D EventDirType: 6F EventData(3-1): 01 00 AC 
+Processor IERR                                 GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: D5 EventDirType: 6F EventData(3-1): FF FF 00 
+Processor 1 QPI 1 uncorrectable error          GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: 9D EventDirType: 6F EventData(3-1): 12 00 AB 
+Processor 1 QPI 1 correctable error            GenID: 0001 EvMRev: 04 SensorType: 07 Sensor: 9D EventDirType: 6F EventData(3-1): 12 00 AC 
+DIMM A1 NVDIMM controller error                GenID: 0001 EvMRev: 04 SensorType: D2 Sensor: 05 EventDirType: 6F EventData(3-1): 01 00 A0 
+DIMM A1 NVDIMM restore failed                  GenID: 0001 EvMRev: 04 SensorType: D2 Sensor: 05 EventDirType: 6F EventData(3-1): 01 00 A1 
+DIMM A1 NVDIMM backup failed                   GenID: 0001 EvMRev: 04 SensorType: D2 Sensor: 05 EventDirType: 6F EventData(3-1): 01 00 A3 
+DIMM A1 NVDIMM erase failed                    GenID: 0001 EvMRev: 04 SensorType: D2 Sensor: 05 EventDirType: 6F EventData(3-1): 01 00 A4 
+DIMM A1 NVDIMM arm failed                      GenID: 0001 EvMRev: 04 SensorType: D2 Sensor: 05 EventDirType: 6F EventData(3-1): 01 00 A6 
+DIMM A1 NVDIMM error                           GenID: 0001 EvMRev: 04 SensorType: D2 Sensor: 05 EventDirType: 6F EventData(3-1): 01 00 A9 
+
