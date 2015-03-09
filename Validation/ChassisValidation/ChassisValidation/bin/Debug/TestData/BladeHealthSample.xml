@@ -1,0 +1,465 @@
+﻿<BingSKU xmlns="http://schemas.datacontract.org/2004/07/Microsoft.GFS.WCS.Test.Framework" xmlns:i="http://www.w3.org/2001/XMLSchema-instance">
+
+  <BladeInfoResponse>
+    <completionCode>Success</completionCode>
+    <bladeType>Server</bladeType>
+    <firmwareVersion>03.05.09</firmwareVersion>
+    <hardwareVersion>C1030Q</hardwareVersion>
+    <bladeType>Server</bladeType>
+    <bladeState>Healthy</bladeState>
+  </BladeInfoResponse>
+
+  <BladeHealthResponse>
+    <completionCode>Success</completionCode>
+    <apiVersion>1</apiVersion>
+    <statusDescription/>
+    <bladeNumber>20</bladeNumber>
+    <serialNumber>QTFCTM3230105</serialNumber>
+    <assetTag/>
+    <hardwareVersion>C1030Q</hardwareVersion>
+    <productType/>
+    <bladeShell>
+      <completionCode>Success</completionCode>
+      <apiVersion>1</apiVersion>
+      <statusDescription/>
+      <bladeNumber>8</bladeNumber>
+      <bladeType>Server</bladeType>
+      <bladeState>Healthy</bladeState>
+    </bladeShell>
+    <processorInfo>
+      <ProcessorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <procId>0</procId>
+        <procType>IntelHaswell</procType>
+        <state>Present</state>
+        <frequency>2400</frequency>
+      </ProcessorInfo>
+      <ProcessorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <procId>1</procId>
+        <procType>IntelHaswell</procType>
+        <state>Present</state>
+        <frequency>2400</frequency>
+      </ProcessorInfo>
+    </processorInfo>
+    <memoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>1</dimm>
+        <dimmType>DDR3</dimmType>
+        <status>Ok</status>
+        <speed>1333</speed>
+        <size>16384</size>
+        <memVoltage>1.35V</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>2</dimm>
+        <dimmType>NotPresent</dimmType>
+        <status>NotPresent</status>
+        <speed>0</speed>
+        <size>0</size>
+        <memVoltage>NotPresent</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>3</dimm>
+        <dimmType>DDR3</dimmType>
+        <status>Ok</status>
+        <speed>1333</speed>
+        <size>16384</size>
+        <memVoltage>1.35V</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>4</dimm>
+        <dimmType>NotPresent</dimmType>
+        <status>NotPresent</status>
+        <speed>0</speed>
+        <size>0</size>
+        <memVoltage>NotPresent</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>5</dimm>
+        <dimmType>DDR3</dimmType>
+        <status>Ok</status>
+        <speed>1333</speed>
+        <size>16384</size>
+        <memVoltage>1.35V</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>6</dimm>
+        <dimmType>NotPresent</dimmType>
+        <status>NotPresent</status>
+        <speed>0</speed>
+        <size>0</size>
+        <memVoltage>NotPresent</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>7</dimm>
+        <dimmType>DDR3</dimmType>
+        <status>Ok</status>
+        <speed>1333</speed>
+        <size>16384</size>
+        <memVoltage>1.35V</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>8</dimm>
+        <dimmType>NotPresent</dimmType>
+        <status>NotPresent</status>
+        <speed>0</speed>
+        <size>0</size>
+        <memVoltage>NotPresent</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>9</dimm>
+        <dimmType>DDR3</dimmType>
+        <status>Ok</status>
+        <speed>1333</speed>
+        <size>16384</size>
+        <memVoltage>1.35V</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>10</dimm>
+        <dimmType>NotPresent</dimmType>
+        <status>NotPresent</status>
+        <speed>0</speed>
+        <size>0</size>
+        <memVoltage>NotPresent</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>11</dimm>
+        <dimmType>DDR3</dimmType>
+        <status>Ok</status>
+        <speed>1333</speed>
+        <size>16384</size>
+        <memVoltage>1.35V</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>12</dimm>
+        <dimmType>NotPresent</dimmType>
+        <status>NotPresent</status>
+        <speed>0</speed>
+        <size>0</size>
+        <memVoltage>NotPresent</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>13</dimm>
+        <dimmType>DDR3</dimmType>
+        <status>Ok</status>
+        <speed>1333</speed>
+        <size>16384</size>
+        <memVoltage>1.35V</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>14</dimm>
+        <dimmType>NotPresent</dimmType>
+        <status>NotPresent</status>
+        <speed>0</speed>
+        <size>0</size>
+        <memVoltage>NotPresent</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>15</dimm>
+        <dimmType>DDR3</dimmType>
+        <status>Ok</status>
+        <speed>1333</speed>
+        <size>16384</size>
+        <memVoltage>1.35V</memVoltage>
+      </MemoryInfo>
+      <MemoryInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <dimm>16</dimm>
+        <dimmType>NotPresent</dimmType>
+        <status>NotPresent</status>
+        <speed>0</speed>
+        <size>0</size>
+        <memVoltage>NotPresent</memVoltage>
+      </MemoryInfo>
+    </memoryInfo>
+    <pcieInfo>
+      <PCIeInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <pcieNumber>1</pcieNumber>
+        <vendorId>0x15B3</vendorId>
+        <deviceId>0x1007</deviceId>
+        <subSystemId>0x002015B3</subSystemId>
+        <status>Present</status>
+      </PCIeInfo>      
+    </pcieInfo>
+    <sensors>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>176</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>SystemBoard</entityId>
+        <entityInstance>0</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>22</reading>
+        <description>Temp_Inlet</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>177</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>MemoryDevice</entityId>
+        <entityInstance>0</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>24</reading>
+        <description>Temp_DIMM_A</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>178</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>MemoryDevice</entityId>
+        <entityInstance>2</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>24</reading>
+        <description>Temp_DIMM_B</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>180</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>MemoryDevice</entityId>
+        <entityInstance>4</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>23</reading>
+        <description>Temp_DIMM_C</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>182</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>MemoryDevice</entityId>
+        <entityInstance>6</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>23</reading>
+        <description>Temp_DIMM_D</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>184</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>MemoryDevice</entityId>
+        <entityInstance>8</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>24</reading>
+        <description>Temp_DIMM_E</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>186</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>MemoryDevice</entityId>
+        <entityInstance>10</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>25</reading>
+        <description>Temp_DIMM_F</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>49</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>SystemBoard</entityId>
+        <entityInstance>1</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>28</reading>
+        <description>Temp_Outlet</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>50</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>SystemBoard</entityId>
+        <entityInstance>2</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>0</reading>
+        <description>Temp_Mezz</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>188</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>MemoryDevice</entityId>
+        <entityInstance>12</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>26</reading>
+        <description>Temp_DIMM_G</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>51</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>Processor</entityId>
+        <entityInstance>0</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>34</reading>
+        <description>Temp_CPU0</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>52</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>Processor</entityId>
+        <entityInstance>1</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>34</reading>
+        <description>Temp_CPU1</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>190</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>MemoryDevice</entityId>
+        <entityInstance>14</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>25</reading>
+        <description>Temp_DIMM_H</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>53</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>ProcessorIOModule</entityId>
+        <entityInstance>0</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>23</reading>
+        <description>Temp_PCH</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>54</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>SystemBoard</entityId>
+        <entityInstance>3</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>23</reading>
+        <description>Temp_HSC</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>55</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>Processor</entityId>
+        <entityInstance>0</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>88</reading>
+        <description>TJMAX_CPU0</description>
+      </SensorInfo>
+      <SensorInfo>
+        <completionCode>Success</completionCode>
+        <apiVersion>1</apiVersion>
+        <statusDescription />
+        <sensorNumber>56</sensorNumber>
+        <sensorType>Temperature</sensorType>
+        <status>No Threshold Event Asserted</status>
+        <entityId>Processor</entityId>
+        <entityInstance>1</entityInstance>
+        <entityType>Physical</entityType>
+        <reading>88</reading>
+        <description>TJMAX_CPU1</description>
+      </SensorInfo>
+    </sensors>
+    <jbodInfo i:nil="true" />
+    <jbodDiskInfo i:nil="true" />
+  </BladeHealthResponse>
+</BingSKU>

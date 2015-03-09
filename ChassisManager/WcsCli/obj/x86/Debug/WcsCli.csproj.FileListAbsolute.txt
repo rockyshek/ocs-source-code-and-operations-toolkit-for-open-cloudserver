@@ -1,0 +1,16 @@
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\WcsCli\bin\Debug\WcsCli.exe.config
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\WcsCli\bin\Debug\WcsCli.exe
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\WcsCli\bin\Debug\WcsCli.pdb
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\WcsCli\bin\Debug\Microsoft.GFS.WCS.Contracts.dll
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\WcsCli\bin\Debug\Microsoft.GFS.WCS.Contracts.pdb
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\WcsCli\obj\x86\Debug\WcsCli.csprojResolveAssemblyReference.cache
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\WcsCli\obj\x86\Debug\WcsCli.exe
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\WcsCli\obj\x86\Debug\WcsCli.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\WcsCli\bin\Debug\WcsCli.exe.config
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\WcsCli\bin\Debug\WcsCli.exe
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\WcsCli\bin\Debug\WcsCli.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\WcsCli\bin\Debug\Microsoft.GFS.WCS.Contracts.dll
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\WcsCli\bin\Debug\Microsoft.GFS.WCS.Contracts.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\WcsCli\obj\x86\Debug\WcsCli.csprojResolveAssemblyReference.cache
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\WcsCli\obj\x86\Debug\WcsCli.exe
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\WcsCli\obj\x86\Debug\WcsCli.pdb

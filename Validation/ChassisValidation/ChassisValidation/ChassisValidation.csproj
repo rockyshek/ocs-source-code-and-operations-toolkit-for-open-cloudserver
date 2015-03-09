@@ -1,0 +1,153 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{3AEBB5E0-B98D-4D48-8317-28FF344F9E60}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ChassisValidation</RootNamespace>
+    <AssemblyName>ChassisValidation</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <SccProjectName>SAK</SccProjectName>
+    <SccLocalPath>SAK</SccLocalPath>
+    <SccAuxPath>SAK</SccAuxPath>
+    <SccProvider>SAK</SccProvider>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.VisualStudio.QualityTools.UnitTestFramework, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Management" />
+    <Reference Include="System.Runtime.Serialization" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.ServiceModel.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Xml.Linq" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commands\AutoUserManagement.cs" />
+    <Compile Include="Commands\BladeMezzCommands.cs" />
+    <Compile Include="Commands\PSUFirmwareCommands.cs" />
+    <Compile Include="RestHelper\ChassisManagerClientProxyBase.cs" />
+    <Compile Include="CmConstants.cs" />
+    <Compile Include="RestHelper\CmRestChannelFactory.cs" />
+    <Compile Include="RestHelper\ChassisManagerRestClientBase.cs" />
+    <Compile Include="RestHelper\ChassisManagerRestProxyGenerator.cs" />
+    <Compile Include="RestHelper\ChassisManagerRestProxyKey.cs" />
+    <Compile Include="CmRestTest.cs" />
+    <Compile Include="ChassisManagerTestHelper.cs" />
+    <Compile Include="CmTestLog.cs" />
+    <Compile Include="Commands\AcSocketPowerCommands.cs" />
+    <Compile Include="Commands\LogCommands.cs" />
+    <Compile Include="Commands\NextBootCommands.cs" />
+    <Compile Include="Commands\PowerCommands.cs" />
+    <Compile Include="Commands\NvdimmCommands.cs" />
+    <Compile Include="Commands\AssetManagementCommands.cs" />
+    <Compile Include="Commands\SerialConsoleCommands.cs" />
+    <Compile Include="Commands\UserManagementCommands.cs" />
+    <Compile Include="Commands\BladeCommands.cs" />
+    <Compile Include="Commands\ChassisCommands.cs" />
+    <Compile Include="Commands\CommandBase.cs" />
+    <Compile Include="TestLog\ConsoleLogger.cs" />
+    <Compile Include="TestLog\ILogger.cs" />
+    <Compile Include="TestLog\Log.cs" />
+    <Compile Include="TestLog\LogLevel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TestLog\TestLogName.cs" />
+    <Compile Include="TestLog\TxtFileLogger.cs" />
+    <Compile Include="TestResponse.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Documentation\RESTAutomation_Scenarios.txt">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\BladeFruSample.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\BladeHealthSample.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\ChassisManagerFruSample.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestData\PdbFruSample.xml">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="TestResources\PSU FW\InvalidPsuFwFile.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Documentation\Chassis Validation Documentation Summary.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="Documentation\Chassis Validation Utility Setup Documentation.docx">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="TestResources\Blade Mezz\Image\PikesPeak_I2C_Test_NoBypassUntilForced.sof">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="TestResources\FRU\Tools\CM_FRU 0815 V0.09.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="TestResources\FRU\Tools\MB_FRU_0812_V0.07.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="TestResources\FRU\Tools\PDB_FRU 0815 V0.05.zip">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </None>
+    <None Include="TestResources\PSU FW\PL1600H_Pri_V011900_Ver0006AA_A04041_SRP.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="TestResources\PSU FW\PL1600H_Sec_V012000_Ver0006AA_A04041_SRP.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="TestResources\PSU FW\PS1600H_Pri_V011900_Ver0005AA_A04041_SRP.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+    <None Include="TestResources\PSU FW\PS1600H_Sec_V011900_Ver0005AA_A04041_SRP.zip">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\..\Contracts\Microsoft.GFS.WCS.Contracts.csproj">
+      <Project>{8b3e60cf-253f-4957-ae51-4dd60bd82e59}</Project>
+      <Name>Microsoft.GFS.WCS.Contracts</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

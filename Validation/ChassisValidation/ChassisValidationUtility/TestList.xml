@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<TestList>
+  <!--Run=1 means the tests will be executed; Run=0 means the tests won't be run -->
+  <TestCase Name="GetChassisHealthTest" Run="1"/>
+  <TestCase Name="GetBladeHealthTest" Run="1"/>
+  <TestCase Name="GetChassisInfoTest" Run="0"/>
+  <TestCase Name="GetAllBladesInfoTest" Run="1"/>
+  <TestCase Name="SetGetAllBladesDefaultPowerStateTest" Run="1"/>
+  <TestCase Name="SetGetBladeDefaultPowerStateTest" Run="1"/>
+  <TestCase Name="SetGetAllPowerStateTest" Run="1"/>
+  <TestCase Name="SetGetPowerStateTest" Run="1"/>
+  <TestCase Name="SetGetBladeStateTest" Run="1"/>
+  <TestCase Name="SetGetAllBladesStateTest" Run="1"/>
+  <TestCase Name="GetBladeInfoTest" Run="1"/>
+  <TestCase Name="SetBladePowerLimitOnOffTest" Run="0"/>
+  <TestCase Name="StartStopBladeSerialSessionTest" Run="0"/>
+  <TestCase Name="GetChassisManagerAssetInfoTest" Run="1"/>
+  <TestCase Name="GetPdbAssetInfoTest" Run="1"/>
+  <TestCase Name="GetBladeAssetInfoTest" Run="1"/>
+  <TestCase Name="SetChassisManagerAssetInfoTest" Run="1"/>
+  <TestCase Name="SetPdbAssetInfoTest" Run="1"/>
+  <TestCase Name="SetBladeAssetInfoTest" Run="1"/>
+</TestList>

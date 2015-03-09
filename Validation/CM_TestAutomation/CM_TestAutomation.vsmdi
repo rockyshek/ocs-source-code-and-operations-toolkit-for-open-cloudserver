@@ -1,0 +1,89 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<TestLists xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
+  <TestList name="ReadCMLogsWithTimeStamp" id="23ae4acb-38cc-4780-81a5-411d4f14bd48" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="ea67aea9-58a3-f343-d092-4e8138c3c391" name="ReadChassisLogWithTimestampTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="SetBladeDefaultPowerStateOff" id="26c40fad-4e2d-4fcb-943d-c862105cd18c" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="8538da33-2583-db88-af28-e922acfed14c" name="SetBladeDefaultPowerStateOffTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="ReadBladeLog" id="352fbb04-05d9-4239-9d29-19ea5fb8dc79" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="18656e21-18e4-8a9c-35f5-7372a4f6324e" name="ReadBladeLogTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="SetAllbladesattentionLEDON" id="377e6adb-8417-4bc4-8b9d-7dd0dbc4c303" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="b54b31a3-1b5c-3c75-9907-738d0f5b1269" name="SetAllBladesAttentionLEDOnTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="GetAllBladesDefaultPowerstate" id="491549ac-85c3-4460-82c6-73245fd87cb1" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="8dafc5bb-29a6-cfbf-ddec-dc9f25e0e226" name="GetAllBladesDefaultPowerStateTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="ReadbladeLogWithTimeStamp" id="5b4a1afa-dc65-4a4e-9419-da6f91ecaa82" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="5e52c862-4c72-f90e-f18b-1150286277b5" name="ReadBladeLogWithTimestampTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="AllBladesPowerCycle" id="6ee50290-9c7a-463b-85f5-74d01ebc2e4d" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="7598c150-e6d9-c320-be8f-167e33c664d4" name="SetAllBladesActivePowerCycleTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="bladePowerCycle" id="8c07b120-f868-4244-8fa1-c5b1adcde2ed" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="c0bf8485-5e85-5801-41e6-a020905fb7d3" name="SetBladeActivePowerCycleTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="Lists of Tests" id="8c43106b-9dc1-4907-a29f-aa66a61bf5b6" />
+  <TestList name="GetAllBladesInfo" id="91ffc8bc-996a-48fb-b923-654d54915196" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="d36c65d5-6adc-a95b-7a80-46b4aa502f9a" name="GetAllBladesInfoTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="GetBladePowerLimitTest" id="a5e8acd4-ef6a-4f0a-844d-171804333352" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="47810ecb-3a25-2c2a-fb2f-fe49392edbb2" name="GetBladePowerLimitTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="SetBladeoff" id="a754a71e-c969-417f-9ce5-69f3d8802667" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="24a999f6-e5b1-14f0-a6d1-5b001fe79c1b" name="SetBladeOffTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="SetBLadeDefaultPoweStateOn" id="a9c64add-7301-45f1-95e2-a28ad48a6f0d" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="527af8c3-5327-bc94-e8a1-44bb9f7bd72c" name="SetBladeDefaultPowerStateOnTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="SetBladeDefaultPoweron" id="becc61bf-20f3-47e5-a560-efe7900df8d4" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="669e0984-dd6e-5bcd-510a-db0e612a0d8f" name="SetAllBladesDefaultPowerStateOnTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="getchassisNetworkProperties" id="c657d5a1-6979-43da-8c55-348d93153596" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="694b932c-eebb-6e90-e016-d68562a3a02b" name="GetChassisNetworkPropertiesTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="ClearBladelogs" id="d54e9bac-23a3-4d22-897c-cc72021ee8e6" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="5f49603b-5a26-619c-9bbc-9d8f7892321c" name="ClearBladeLogTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="SetCMLEDOn" id="e1d51b6e-72e5-4e65-90e2-58c2a2b6e069" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="00c4eb1f-0da5-5a75-57b3-e1120173c922" name="SetChassisLEDOnTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+  <TestList name="GetBladesDefaultPowerstate" id="f2698799-2874-4956-ad4d-a7a26504ee9d" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
+    <TestLinks>
+      <TestLink id="5ce6bd2c-8f98-1740-d524-c77164b71839" name="GetBladeDefaultPowerStateTest" storage="bin\debug\cm_testautomation.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel, Version=10.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a" />
+    </TestLinks>
+  </TestList>
+</TestLists>

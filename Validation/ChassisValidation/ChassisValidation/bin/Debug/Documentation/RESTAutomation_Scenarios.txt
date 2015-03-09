@@ -1,0 +1,16 @@
+ReadClearBladeLogTest
+SetGetAllPowerStateTest
+SetGetAllBladesStateTest
+SetGetAllBladeDefaultPowerStateTest
+GetAllBladesInfoTest
+GetAllBladeHealthTest
+GetChassisHealthTest
+AllBladesPowerLimitTest
+GetAllBladesPowerReadingTest
+GetChassisinfoTest
+ReadBladeLogWithTimestampTest
+SetAllBladesActivePowerCycleTest
+SetGetNextBootTest
+StartBladeSerialSessionTest
+
+

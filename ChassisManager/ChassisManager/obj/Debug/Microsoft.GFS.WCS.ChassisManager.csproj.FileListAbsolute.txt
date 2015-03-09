@@ -1,0 +1,22 @@
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\ChassisManager\bin\Debug\EventDataStrings.xml
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\ChassisManager\bin\Debug\Microsoft.GFS.WCS.ChassisManager.exe.config
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\ChassisManager\bin\Debug\Microsoft.GFS.WCS.ChassisManager.exe
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\ChassisManager\bin\Debug\Microsoft.GFS.WCS.ChassisManager.pdb
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\ChassisManager\bin\Debug\Microsoft.GFS.WCS.ChassisManager.Ipmi.dll
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\ChassisManager\bin\Debug\Microsoft.GFS.WCS.Contracts.dll
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\ChassisManager\bin\Debug\Microsoft.GFS.WCS.Contracts.pdb
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\ChassisManager\bin\Debug\Microsoft.GFS.WCS.ChassisManager.Ipmi.pdb
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\ChassisManager\obj\Debug\Microsoft.GFS.WCS.ChassisManager.csprojResolveAssemblyReference.cache
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\ChassisManager\obj\Debug\Microsoft.GFS.WCS.ChassisManager.exe
+C:\Microsoft\Mt Rainier\Manageability\Releases\V2.5\OCP\ChassisManager\obj\Debug\Microsoft.GFS.WCS.ChassisManager.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\ChassisManager\bin\Debug\EventDataStrings.xml
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\ChassisManager\bin\Debug\Microsoft.GFS.WCS.ChassisManager.exe.config
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\ChassisManager\bin\Debug\Microsoft.GFS.WCS.ChassisManager.exe
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\ChassisManager\bin\Debug\Microsoft.GFS.WCS.ChassisManager.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\ChassisManager\bin\Debug\Microsoft.GFS.WCS.ChassisManager.Ipmi.dll
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\ChassisManager\bin\Debug\Microsoft.GFS.WCS.Contracts.dll
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\ChassisManager\bin\Debug\Microsoft.GFS.WCS.Contracts.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\ChassisManager\bin\Debug\Microsoft.GFS.WCS.ChassisManager.Ipmi.pdb
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\ChassisManager\obj\Debug\Microsoft.GFS.WCS.ChassisManager.csprojResolveAssemblyReference.cache
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\ChassisManager\obj\Debug\Microsoft.GFS.WCS.ChassisManager.exe
+C:\GitHub\ocs-source-code-and-operations-toolkit-for-open-cloudserver\ChassisManager\ChassisManager\obj\Debug\Microsoft.GFS.WCS.ChassisManager.pdb
